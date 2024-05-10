@@ -65,6 +65,6 @@ $borraccia=new Articolo("borraccia", 2);
 $lidl=new Inventario();
 $lidl->aggiungiArticolo($crackers);
 $lidl->aggiungiArticolo($borraccia);
-stampami($lidl);
+//stampami($lidl);
 
 $lidl->aggiornaQuantita("crackers",100);
