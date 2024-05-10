@@ -67,4 +67,4 @@ $lidl->aggiungiArticolo($crackers);
 $lidl->aggiungiArticolo($borraccia);
 //stampami($lidl);
 
-$lidl->aggiornaQuantita("crackers",100);
+//$lidl->aggiornaQuantita("crackers",100);
